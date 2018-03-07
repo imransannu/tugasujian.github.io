@@ -1,0 +1,66 @@
+[
+
+    {
+        "id":1,
+        "nama_barang": "Celana",
+        "harga" : 50000,
+        "deskripsi": "lorem ipsum lorem ipsum",
+        "image":"/assets/img/celpan3.jpg"
+    },
+    {
+        "id":2,
+        "nama_barang": "Kameja",
+        "harga" : 50000,
+        "deskripsi": "lorem ipsum lorem ipsum",
+        "image":"/assets/img/kameja.jpg"
+    },
+    {
+        "id":3,
+        "nama_barang": "Cincin",
+        "harga" : 50000,
+        "deskripsi": "lorem ipsum lorem ipsum",
+        "image":"/assets/img/cincin.jpg"
+    },
+    {
+        "id":4,
+        "nama_barang": "Kaos",
+        "harga" : 50000,
+        "deskripsi": "lorem ipsum lorem ipsum",
+        "image":"/assets/img/kaos.jpg"
+    },
+    {
+        "id":5,
+        "nama_barang": "Topi",
+        "harga" : 50000,
+        "deskripsi": "lorem ipsum lorem ipsum",
+        "image":"/assets/img/topi.jpg"
+    },
+    {
+        "id":6,
+        "nama_barang": "Smartphone",
+        "harga" : 50000,
+        "deskripsi": "lorem ipsum lorem ipsum",
+        "image":"./assets/img/hp.jpg"
+    },
+    {
+        "id":7,
+        "nama_barang": "Gelang",
+        "harga" : 50000,
+        "deskripsi": "lorem ipsum lorem ipsum",
+        "image":"/assets/img/gelang.jpg"
+    },
+    {
+        "id":8,
+        "nama_barang": "Kacamata",
+        "harga" : 50000,
+        "deskripsi": "lorem ipsum lorem ipsum",
+        "image":"/assets/img/kacamata.jpg"
+    },
+    {
+        "id":9,
+        "nama_barang": "Jam",
+        "harga" : 50000,
+        "deskripsi": "lorem ipsum lorem ipsum",
+        "image":"/assets/img/jam.jpg"
+    }
+]

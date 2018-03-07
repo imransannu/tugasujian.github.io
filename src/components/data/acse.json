@@ -1,0 +1,10 @@
+[
+    {"id":1, "nama": "Smartphone","harga": 69000, "deskripsi": "lorem ipsum", "image":"/assets/img/hp.jpg"},
+    {"id":2, "nama": "Dompet","harga": 99000, "deskripsi": "lorem ipsum", "image":"/assets/img/dompet.jpg"},
+    {"id":3, "nama": "Gelang","harga": 55000, "deskripsi": "lorem ipsum", "image":"/assets/img/gelang.jpg"},
+    {"id":4, "nama": "Jam","harga": 12000, "deskripsi": "lorem ipsum", "image":"/assets/img/jam.jpg"},
+    {"id":1, "nama": "Kacamata","harga": 96000, "deskripsi": "lorem ipsum", "image":"/assets/img/kacamata.jpg"},
+    {"id":2, "nama": "Topi","harga": 68000, "deskripsi": "lorem ipsum", "image":"/assets/img/topi.jpg"},
+    {"id":3, "nama": "Cincin","harga": 456000, "deskripsi": "lorem ipsum", "image":"/assets/img/cincin.jpg"},
+    {"id":4, "nama": "Boto","harga": 56000, "deskripsi": "lorem ipsum", "image":"/assets/img/botol.jpg"}
+]

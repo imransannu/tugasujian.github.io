@@ -1,0 +1,10 @@
+[
+    {"id":1, "nama": "Black-Jail","harga": 5000000, "deskripsi": "lorem ipsum", "image":"/assets/img/celpan.jpg"},
+    {"id":2, "nama": "Blue-sky","harga": 1000000, "deskripsi": "lorem ipsum", "image":"/assets/img/celpan2.jpg"},
+    {"id":3, "nama": "Carnav","harga": 850000, "deskripsi": "lorem ipsum", "image":"/assets/img/celpan3.jpg"},
+    {"id":4, "nama": "Blues","harga": 800000, "deskripsi": "lorem ipsum", "image":"/assets/img/celpan4.jpg"},
+    {"id":1, "nama": "Swollow","harga": 700000, "deskripsi": "lorem ipsum", "image":"/assets/img/celpan5.jpg"},
+    {"id":2, "nama": "Levis","harga": 8500000, "deskripsi": "lorem ipsum", "image":"/assets/img/celpan6.jpg"},
+    {"id":3, "nama": "Flusk","harga": 690000, "deskripsi": "lorem ipsum", "image":"/assets/img/celpan7.jpg"},
+    {"id":4, "nama": "Garna","harga": 980000, "deskripsi": "lorem ipsum", "image":"/assets/img/celpan8.jpg"}
+]

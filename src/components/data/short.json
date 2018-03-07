@@ -1,0 +1,10 @@
+[
+    {"id":1, "nama": "Bleu-Shirt","harga": 69000, "deskripsi": "lorem ipsum", "image":"/assets/img/celpen.jpg"},
+    {"id":2, "nama": "Billabong","harga": 99000, "deskripsi": "lorem ipsum", "image":"/assets/img/celpen2.jpg"},
+    {"id":3, "nama": "Carnav","harga": 55000, "deskripsi": "lorem ipsum", "image":"/assets/img/celpen3.jpg"},
+    {"id":4, "nama": "Blues","harga": 12000, "deskripsi": "lorem ipsum", "image":"/assets/img/celpen8.jpg"},
+    {"id":1, "nama": "Swollow","harga": 96000, "deskripsi": "lorem ipsum", "image":"/assets/img/celpen5.jpg"},
+    {"id":2, "nama": "Greens","harga": 68000, "deskripsi": "lorem ipsum", "image":"/assets/img/celpen6.jpg"},
+    {"id":3, "nama": "Flusk","harga": 456000, "deskripsi": "lorem ipsum", "image":"/assets/img/celpen7.jpg"},
+    {"id":4, "nama": "Garna","harga": 56000, "deskripsi": "lorem ipsum", "image":"/assets/img/celpen8.jpg"}
+]

@@ -1,0 +1,9 @@
+.h3-sidebar,.h3-about{
+    background: lightgreen;
+    text-align: center;
+    padding: 5px;
+    border-radius: 4px;
+    text-align: center;
+}
+.ul-brand>li{padding-bottom: 30px;}
+.h3-sidebar{margin-bottom: 20px;}

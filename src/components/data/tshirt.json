@@ -1,0 +1,10 @@
+[
+    {"id":1, "nama": "Brown-Shirt","harga": 90000, "deskripsi": "lorem ipsum", "image":"/assets/img/kameja.jpg"},
+    {"id":2, "nama": "Bleu-Shirt","harga": 60000, "deskripsi": "lorem ipsum", "image":"/assets/img/kameja9.jpg"},
+    {"id":3, "nama": "Flower-Shirt","harga": 65000, "deskripsi": "lorem ipsum", "image":"/assets/img/kameja4.jpg"},
+    {"id":4, "nama": "Sky-Shirt","harga": 80000, "deskripsi": "lorem ipsum", "image":"/assets/img/kameja5.jpg"},
+    {"id":1, "nama": "Gray-Shirt","harga": 75000, "deskripsi": "lorem ipsum", "image":"/assets/img/kameja6.jpg"},
+    {"id":2, "nama": "Black-Shirt","harga": 85000, "deskripsi": "lorem ipsum", "image":"/assets/img/kameja7.jpg"},
+    {"id":3, "nama": "Bleus-Shirt","harga": 65000, "deskripsi": "lorem ipsum", "image":"/assets/img/kameja8.jpg"},
+    {"id":4, "nama": "Balck-Shirt","harga": 70000, "deskripsi": "lorem ipsum", "image":"/assets/img/kameja3.jpg"}
+]

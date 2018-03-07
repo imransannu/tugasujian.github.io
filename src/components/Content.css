@@ -1,0 +1,14 @@
+.h3-content{
+    background: lightgreen;
+    text-align: center;
+    padding: 5px;
+    border-radius: 4px;
+}
+.tumnail:hover{
+    box-shadow: 10px 10px grey;   
+}
+.btn-success, .btn-info {
+    text-align: center;
+    position: relative;
+    margin-left: 10px;
+}
